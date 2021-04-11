@@ -8,7 +8,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-gECP0R_jH](https://www.frontendmentor.io/solutions/3-column-preview-card-gECP0R_jH)
 -   Live Site URL: [https://brave-keller-9be27c.netlify.app/](https://brave-keller-9be27c.netlify.app/)
 
 ## Author
