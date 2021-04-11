@@ -4,8 +4,8 @@ body {
   font-family: "Lexend Deca", sans-serif;
   color: rgba(255, 255, 255, 0.75);
   display: grid;
-  align-items: center;
-  justify-items: center;
+  align-content: center;
+  justify-content: center;
 }
 
 .container {
@@ -83,7 +83,7 @@ button:hover {
   .container {
     grid-template-columns: minmax(100px, 1fr);
     width: 380px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   }
 
   .sedans {
